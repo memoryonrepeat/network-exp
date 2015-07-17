@@ -1,4 +1,4 @@
 # http-server 
-**Implementation of simple http server**
+**Various experiments on network programming**
 
-**[Wiki](https://github.com/tienthanh8490/http-server/wiki)**
+**[Wiki](https://github.com/tienthanh8490/network-exp/wiki)**
